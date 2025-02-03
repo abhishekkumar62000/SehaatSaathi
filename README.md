@@ -168,7 +168,9 @@ Sehaatsaathi is licensed under the **MIT License**.
 ### **Contact:**
 If you have any questions or suggestions, feel free to reach out to us.
 
-**Email:** support@sehaatsaathi.com  
+**Email:** support@sehaatsaathi.com 
+**Email:** abhiydv23096@gmail.com
+
 **GitHub:**https://github.com/abhishekkumar62000/SehaatSaathi
 
 ---
