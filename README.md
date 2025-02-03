@@ -1,12 +1,4 @@
-Here's a comprehensive guide to setting up your open-source GitHub repository for **Sehaatsaathi**. It will include the **description**, **contribution guidelines**, and a **detailed README** that covers all the necessary information for contributors.
-
----
-
-### **GitHub Repository Structure for Sehaatsaathi**
-
-#### 1. **Repository Description:**
-   **Description:**  
-   Sehaatsaathi is an AI-powered Virtual Health Assistant designed to provide users with personalized healthcare advice, symptom checking, emergency treatment suggestions, and doctor consultations. This project aims to empower individuals to make informed health decisions and access real-time support for managing their health. The app integrates advanced AI models to ensure accurate diagnosis and treatment recommendations while keeping healthcare accessible to everyone, especially in rural and underserved communities.
+Sehaatsaathi is an AI-powered Virtual Health Assistant designed to provide users with personalized healthcare advice, symptom checking, emergency treatment suggestions, and doctor consultations. This project aims to empower individuals to make informed health decisions and access real-time support for managing their health. The app integrates advanced AI models to ensure accurate diagnosis and treatment recommendations while keeping healthcare accessible to everyone, especially in rural and underserved communities.
 
    **Project’s Main Objective:**  
    Our goal is to create an intuitive, easy-to-use health assistant that anyone can rely on for advice, medical information, and emergency assistance. Sehaatsaathi is open-source to encourage collaboration, community contributions, and continuous improvement from developers and healthcare professionals alike.
