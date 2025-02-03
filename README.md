@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2300">
   <h1 align="center">🧑‍⚕️Welcome to SehaatSaathi – Your Trusted AI Health Assistant😷! </h1>
-  <img src="./SehaatSaathi Logo.png" width="200px" />
+  <img src="./SehaatSaathi Logo.png" width="220px" />
   <br><a href="#"><strong>SehaatSaathi.AI</strong></a>
   <h4 align="center">✦ "Sehaatsaathi – 🧑‍⚕️Helping You Stay Healthy, Anytime, Anywhere🧑‍⚕️! ✦</h4>
 
@@ -18,9 +18,6 @@
    **Project’s Main Objective:**  
    Our goal is to create an intuitive, easy-to-use health assistant that anyone can rely on for advice, medical information, and emergency assistance. Sehaatsaathi is open-source to encourage collaboration, community contributions, and continuous improvement from developers and healthcare professionals alike.
 
-#### 2. **README File:**
-
-**Sehaatsaathi: AI-Powered Virtual Health Assistant**
 ---
 **Table of Contents:**
 
@@ -32,11 +29,7 @@
 6. [Usage](#usage)
 7. [License](#license)
 8. [Contact](#contact)
-
 ---
-
-### **About Sehaatsaathi:**
-Sehaatsaathi is an open-source AI-powered virtual health assistant designed to provide accessible healthcare information and assistance. It leverages AI-driven models to suggest diagnoses, treatments, and emergency help, offering real-time health consultations. With a user-friendly interface and robust features, Sehaatsaathi aims to improve healthcare accessibility in rural and underserved regions. By making this project open-source, we invite developers, healthcare professionals, and volunteers to contribute and make healthcare more accessible for everyone.
 
 ### **Features:**
 - **Symptom Checker & Diagnosis:** Input symptoms and get AI-generated possible diagnoses and suggestions for treatment.
