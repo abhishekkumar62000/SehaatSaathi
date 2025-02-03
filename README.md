@@ -12,16 +12,8 @@
   <h4 align="center">✦ "Sehaatsaathi – 🧑‍⚕️Helping You Stay Healthy, Anytime, Anywhere🧑‍⚕️! ✦</h4>
 
   
-  ` Helpmate is a AI ChatBot web app where you can ask any question and you will get the answer. `
-<hr><img src="./public/Helpmate Mockup.png"/>
-
-
-
-
-
-
-
-Sehaatsaathi is an AI-powered Virtual Health Assistant designed to provide users with personalized healthcare advice, symptom checking, emergency treatment suggestions, and doctor consultations. This project aims to empower individuals to make informed health decisions and access real-time support for managing their health. The app integrates advanced AI models to ensure accurate diagnosis and treatment recommendations while keeping healthcare accessible to everyone, especially in rural and underserved communities.
+  ` Sehaatsaathi is an AI-powered Virtual Health Assistant designed to provide users with personalized healthcare advice, symptom checking, emergency treatment suggestions, and doctor consultations. This project aims to empower individuals to make informed health decisions and access real-time support for managing their health. The app integrates advanced AI models to ensure accurate diagnosis and treatment recommendations while keeping healthcare accessible to everyone, especially in rural and underserved communities. `
+<hr>
 
    **Project’s Main Objective:**  
    Our goal is to create an intuitive, easy-to-use health assistant that anyone can rely on for advice, medical information, and emergency assistance. Sehaatsaathi is open-source to encourage collaboration, community contributions, and continuous improvement from developers and healthcare professionals alike.
