@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbhiYadav4723?style=social)](https://twitter.com/intent/follow?screen_name=AbhiYadav4723)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2300">
-  <h1 align="center">🤖 Introducing to SehaatSaathi 🤖</h1>
+  <h1 align="center">🧑‍⚕️Welcome to SehaatSaathi – Your Trusted AI Health Assistant😷! </h1>
   <img src="./SehaatSaathi Logo.png" width="200px" />
   <br><a href="#"><strong>SehaatSaathi.AI</strong></a>
   <h4 align="center">✦ "Sehaatsaathi – 🧑‍⚕️Helping You Stay Healthy, Anytime, Anywhere🧑‍⚕️! ✦</h4>
