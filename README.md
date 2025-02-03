@@ -119,49 +119,7 @@ Healthcare Provider Insights: If integrated with clinics or doctors, they can ga
 Health Trends: Display trends in user health data over time (e.g., increasing numbers of flu-related diagnoses in a specific area).
 
 
-### **Installation:**
-
-To run **Sehaatsaathi** locally or contribute to its development, follow the steps below.
-
-**Prerequisites:**
-- Python 3.x
-- Flask/Django (depending on the backend)
-- TensorFlow or PyTorch (for AI model integration)
-- Frontend (React, Vue, or Angular)
-- Postgres/MySQL (for database management)
-
-**Installation Steps:**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sehaatsaathi.git
-   cd sehaatsaathi
-   ```
-
-2. Set up a virtual environment:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # For Linux/MacOS
-   venv\Scripts\activate     # For Windows
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Set up environment variables for sensitive data (API keys, Database credentials):
-   ```bash
-   cp .env.example .env
-   ```
-
-5. Run the application:
-   ```bash
-   python app.py  # Or the equivalent file in your framework
-   ```
-
----
-
-### **Technologies Used:**
+### **Technologies Used According to Me:**
 
 - **Frontend:** React.js, HTML5, CSS3
 - **Backend:** Python (Flask or Django), FastAPI
@@ -181,7 +139,7 @@ We welcome contributions from developers, healthcare professionals, and communit
 1. **Fork the Repository:** Click on the 'Fork' button to create a personal copy of the repository.
 2. **Clone your Fork:**  
    ```bash
-   git clone https://github.com/yourusername/sehaatsaathi.git
+   git clone https://github.com/abhishekkumar62000/SehaatSaathi.git
    cd sehaatsaathi
    ```
 3. **Create a Branch:**  
@@ -218,7 +176,7 @@ Sehaatsaathi is licensed under the **MIT License**.
 If you have any questions or suggestions, feel free to reach out to us.
 
 **Email:** support@sehaatsaathi.com  
-**GitHub:** https://github.com/yourusername/sehaatsaathi
+**GitHub:**https://github.com/abhishekkumar62000/SehaatSaathi
 
 ---
 
@@ -227,5 +185,3 @@ If you have any questions or suggestions, feel free to reach out to us.
 - **API Documentation:** If your app exposes APIs, provide full documentation for developers who want to interact with your services.
 
 ---
-
-With these details in your GitHub repository, contributors will know exactly what the project is about, how to contribute, and how to set up the development environment. This also sets the tone for collaboration and ensures a smooth workflow for everyone involved.
