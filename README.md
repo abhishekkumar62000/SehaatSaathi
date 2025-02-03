@@ -9,7 +9,7 @@
   <h1 align="center">🤖 Introducing to SehaatSaathi 🤖</h1>
   <img src="./SehaatSaathi Logo.png" width="200px" />
   <br><a href="#"><strong>SehaatSaathi.AI</strong></a>
-  <h4 align="center">✦ Let's take help with your AI mate! ✦</h4>
+  <h4 align="center">✦ "Sehaatsaathi – 🧑‍⚕️Helping You Stay Healthy, Anytime, Anywhere🧑‍⚕️! ✦</h4>
 
   
   ` Helpmate is a AI ChatBot web app where you can ask any question and you will get the answer. `
