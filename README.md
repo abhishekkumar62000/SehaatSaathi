@@ -195,7 +195,7 @@ We welcome contributions from developers, healthcare professionals, and communit
 
 ### **License:**
 
-Sehaatsaathi is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+Sehaatsaathi is licensed under the **MIT License**. 
 
 ---
 
