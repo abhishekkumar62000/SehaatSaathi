@@ -133,7 +133,9 @@ Sehaatsaathi is **Open-Source** under the **MIT License**.
 ---
 
 ## 📞 Contact & Support
-- **Email:** support@sehaatsaathi.com  
+- **Email:** support@sehaatsaathi.com
+- **WhatsApp:** https://chat.whatsapp.com/EXdQpQbtZuW5Coq0gzOH0A
+- **Phone:** 6200087830, 9470074183
 - **GitHub Issues:** [Submit a bug or feature request](https://github.com/abhishekkumar62000/SehaatSaathi)  
 - **Discord/Slack Community:** (Link to join)
 
